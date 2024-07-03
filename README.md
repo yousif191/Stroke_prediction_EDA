@@ -80,6 +80,3 @@ Two machine learning models are used in this project:
 
 This project demonstrates the complete workflow of data exploration, preprocessing, visualization, and modeling using logistic regression and SVM for stroke prediction. The insights derived and the performance metrics of the models can be used to further improve predictive accuracy and make data-driven decisions in healthcare.
 
----
-
-Feel free to modify any part of this README as per your specific project details!
